@@ -1,0 +1,102 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+
+body {
+	font-size:.9em;
+	-epub-hyphens:auto;
+	font-family: 'Dosis', sans-serif;
+	padding:1em;
+}
+
+div#header {
+text-align:center;
+}
+
+h2 {
+font-size:2em;
+}
+
+h3 {
+color:#009650;
+margin: 10px 0px;	
+}
+
+div#education {	
+margin:2em 0em;
+margin-bottom:20px;
+font-style:italic;
+}
+
+div#experience {
+	margin-bottom:40px;
+}
+
+div#experience .title {
+	font-weight:700;
+	color:#0080bc;	
+}
+
+div#experience .description {
+	
+}
+
+div#experience .date {
+font-style:italic;
+font-weight:600;
+margin-bottom:10px;
+font-size:.9em;	
+}
+
+div#extras {
+margin:2em 0em;
+margin-bottom:40px;	
+}
+
+div#extras .group {
+	font-weight:700;
+	color:#0080bc;		
+}
+
+div#extras p {
+	margin-top:5px;		
+}
+
+
+div#etc {
+margin:2em 0em;
+margin-bottom:40px;	
+}
+
+div#etc .title {
+	font-weight:700;
+	color:#0080bc;
+	margin-top:5px;	
+}
+
+p#contact {
+	margin:30px;
+	text-align:center;
+}
+
+p#contact img {
+	margin-top:30px;
+}
+
+p#contact .blue, p#contact .blue a {
+	color:#0080bc;
+	font-weight:600;
+}
+
+p#contact .green, p#contact .green a {
+	color:#009650;
+	font-weight:600;
+}
+
+
+a:link {color:#0080bc; text-decoration:  none;}
+a:visited {color:#0080bc; text-decoration: none;}
+a:hover {color:#666; text-decoration: underline;}
+a:active {text-decoration: none;}

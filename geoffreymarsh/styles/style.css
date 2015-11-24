@@ -1,0 +1,173 @@
+body{
+	font-size:0.74em;
+	color:#fcfcfc;
+	background-color:#444;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#page{
+	width:960px;
+	margin:0 auto;
+	position:relative;
+}
+
+nav{
+position:fixed;
+}
+
+nav ul{
+	margin:0px 0px 0px -40px;
+}
+
+nav ul li a,
+nav ul li a:visited{
+	color:#FFF;
+	font-size:.9em;
+	font-weight:bold;
+	line-height:1.7em;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+
+nav ul li a:hover{
+	text-decoration:none;
+}
+
+hgroup {
+	float:right;
+	text-align:right;
+	margin-right: 25px;
+}
+
+p.btt {
+	position:fixed;
+	top:0px;
+	right:7px;
+}
+
+article,figure{
+	/* Applying CSS3 rounded corners: */
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+}
+
+#person img{
+	border:solid 2px #999999;
+	}
+	
+#person img:hover {
+border: solid 2px #666666;
+}
+	
+
+#articles {
+	clear:both;
+}
+
+article{
+	background-color:#222;
+	margin:20px 20px 100px 180px;
+	padding:10px 20px;
+	text-shadow:0 2px 0 black;
+}
+
+figure{
+	position:relative;
+	bottom:10px;
+	border:3px solid #142830;
+	float:right;
+	min-height:150px;
+	margin-left:15px;
+	min-width:250px;
+}
+
+figure:hover{
+	-moz-box-shadow:0 0 2px #4D7788;
+	-webkit-box-shadow:0 0 2px #4D7788;
+	box-shadow:0 0 2px #4D7788;
+}
+
+.centered {
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+width:100%;
+}
+
+a img{
+	border:none;
+}
+
+h1,h2,h3{
+	font-family:Arial, Helvetica, sans-serif;
+	text-shadow:0 1px 1px black;
+}
+
+
+h2{
+	font-size:2.2em;
+	font-weight:normal;
+	letter-spacing:0.01em;
+	text-transform:uppercase;
+}
+
+p{
+	line-height:1.7em;
+	padding-bottom:1em;
+}
+
+.line{
+	height:1px;
+	background-color:#24404c;
+	border-bottom:1px solid #416371;
+	margin:1.3em 0;
+	overflow:hidden;
+}
+
+article .line{
+	background-color:#15242a;
+	border-bottom-color:#204656;
+	margin:1.3em 0;
+}
+
+footer .line{
+	margin:2em 0;
+}
+
+.clear:after{
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+footer{
+	margin-top:700px;
+	margin-bottom:30px;
+	text-align:center;
+	font-size:0.825em;
+}
+
+
+footer p{
+	margin-bottom:-2.5em;
+	position:relative;
+}
+
+footer a,footer a:visited{
+	color:#cccccc;
+	display:block;
+	padding:2px 4px;
+	z-index:100;
+	position:relative;
+}
+
+footer a:hover{
+	text-decoration:none;
+}
+
+footer a.up{
+	float:right;
+}

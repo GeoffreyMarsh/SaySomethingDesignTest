@@ -1,0 +1,236 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	font-size:.7em;
+	-epub-hyphens:auto;
+}
+p.Basic-Paragraph {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:Times, sans-serif;
+	font-size:1.1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Paragraph-Style-1 {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Myriad Roman", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+span.Job-Title {
+	font-family:"ITC Benguiat Std Bold Italic", sans-serif;
+	font-size:,9em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Date {
+	font-family:"ITC Benguiat Std Book Italic", sans-serif;
+	font-size:.9em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Skills-heading-Awards {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.Skills-content {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:.9em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.description {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1.1em;
+	font-style:normal;
+	font-weight:normal;
+}
+p.para-style-override-1 {
+	-epub-hyphens:none;
+}
+p.para-style-override-2 {
+	color:#0080bc;
+	font-family:"Myriad Pro Light", sans-serif;
+	font-size:1.1em;
+	font-style:italic;
+	font-weight:600;
+	text-align:center;
+}
+p.para-style-override-3 {
+	color:#009650;
+	font-family:"Myriad Pro Light", sans-serif;
+	font-size:1.1em;
+	font-style:italic;
+	font-weight:600;
+	text-align:center;
+}
+p.para-style-override-4 {
+	text-align:center;
+}
+p.para-style-override-5 {
+	-epub-hyphens:none;
+	text-align:center;
+}
+p.para-style-override-6 {
+	font-family:"Myriad Pro Light", sans-serif;
+	font-size:.9em;
+	font-style:italic;
+	font-weight:600;
+	text-align:right;
+}
+span.char-style-override-1 {
+	color:#0080bc;
+	font-size:1.4em;
+}
+span.char-style-override-2 {
+	color:#0080bc;
+	font-size:1em;
+}
+span.char-style-override-3 {
+	color:#0080bc;
+}
+span.char-style-override-4 {
+	color:#0080bc;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-5 {
+	color:#009650;
+}
+span.char-style-override-6 {
+	color:#009650;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-7 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-8 {
+	color:#009650;
+	font-size:1em;
+}
+span.char-style-override-9 {
+	font-size:.9em;
+}
+span.char-style-override-10 {
+	font-size:1em;
+}
+span.char-style-override-11 {
+	color:#009650;
+	font-family:"Myriad Pro Light", sans-serif;
+	font-size:1.1em;
+	font-style:italic;
+	font-weight:600;
+}
+span.char-style-override-12 {
+	color:#0080bc;
+	font-size:.9em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-13 {
+	color:#0080bc;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:2em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-14 {
+	color:#0080bc;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1.4em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-15 {
+	color:#0080bc;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1.1em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-16 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1.1em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-17 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1.1em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-18 {
+	color:#0080bc;
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1.1em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-19 {
+	font-family:"Myriad Pro", sans-serif;
+	font-size:1.1em;
+	font-style:italic;
+	font-weight:bold;
+}
+span.char-style-override-20 {
+	font-style:italic;
+	font-weight:normal;
+}
+img.frame-1 {
+	height:69px;
+	width:219px;
+}
+div.frame-2 {
+	margin:0px auto 0px auto;
+	text-align:center;
+}
+
+
+
+a:link {color:#06C; text-decoration:  none;}
+a:visited {color:#06C; text-decoration: none;}
+a:hover {color:#666; text-decoration: underline;}
+a:active {text-decoration: none;}
